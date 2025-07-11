@@ -1,6 +1,6 @@
 # Router Design - Verilog Implementation
 
-![Router Block Diagram](docs/block_diagram.png)
+![Router Block Diagram](docs/block_diagram.jpg)
 
 ## Key Features
 - **3-channel FIFO** with soft reset capability
