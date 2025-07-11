@@ -43,4 +43,4 @@ make simulate
 ```
 
 ## Contributors
-- [kathipalli madhu kiran ] - Initial design
+kathipalli madhu kiran - Initial design
